@@ -15,8 +15,16 @@ body {
 
 #hero-title {
     margin-bottom: 16px;
+    font-size: 32px;
+    font-weight: 700px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
 }
 
 #hero-subtitle {
     margin: 0;
+    font-size: 18px;
+    font-weight: 700px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
 }

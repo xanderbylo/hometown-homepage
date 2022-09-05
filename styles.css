@@ -19,6 +19,7 @@ body {
     font-weight: 700px;
     font-family: 'Raleway', sans-serif;
     color: #FFFFFF;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 #hero-subtitle {
@@ -27,4 +28,5 @@ body {
     font-weight: 700px;
     font-family: 'Raleway', sans-serif;
     color: #FFFFFF;
+    text-shadow: 2px 2px 4px #000000;
 }

@@ -21,6 +21,7 @@ A website about Manchester built from scratch as the final project of Scrimba's 
 ## :bulb: Things I learnt
 
 * How to use Figma as a Web Developer to build websites from a design
+* How to change image brightness on hover
 
 ## :page_facing_up: Credits
 

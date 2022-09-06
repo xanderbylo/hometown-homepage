@@ -32,7 +32,7 @@ body {
     text-shadow: 2px 2px 4px #000000;
 }
 
-#activities {
+.activities {
     display: flex;
     justify-content: center;
     gap: 32px;
@@ -112,4 +112,31 @@ body {
     font-size: 16px;
     font-weight: 700px;
     font-family: 'Raleway', sans-serif;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2b6777;
+}
+
+.footer-credit {
+    margin: 24px 0;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.footer-link {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
 }

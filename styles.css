@@ -47,8 +47,8 @@ body {
 
 .activities-image {
     width: 200px;
-    border-radius: 50%;
     margin-bottom: 24px;
+    border-radius: 50%;
 }
 
 .activities-title {
@@ -58,11 +58,28 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-.activities-text {
+.activities-subtitle {
     margin: 0;
     font-size: 14px;
     font-weight: 400px;
     font-family: 'Open Sans', sans-serif;
+}
+
+.guide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.guide-card {
+    margin: 50px;
+    padding: 32px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    background-color: #c8d8e4;
 }
 
 .guide-image {

@@ -1,6 +1,6 @@
 body {
-    margin: 0;
     box-sizing: border-box;
+    margin: 0;
 }
 
 #hero {
@@ -15,7 +15,7 @@ body {
 }
 
 #hero-title {
-    margin-bottom: 16px;
+    margin: 0 0 16px 0;
     font-size: 32px;
     font-weight: 700px;
     font-family: 'Raleway', sans-serif;
@@ -41,8 +41,8 @@ body {
 
 .activities-card {
     width: 250px;
-    text-align: center;
     margin: 50px 0;
+    text-align: center;
 }
 
 .activities-image {
@@ -72,9 +72,10 @@ body {
 }
 
 .guide-card {
-    margin: 50px;
-    padding: 32px;
     width: 600px;
+    margin: 50px;
+    border-radius: 10px;
+    padding: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -84,4 +85,26 @@ body {
 
 .guide-image {
     width: 200px;
+    border-radius: 10px;
+}
+
+.guide-title {
+    margin: 0 0 16px 0;
+    font-size: 24px;
+    font-weight: 700px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.guide-quote {
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
+
+.guide-name {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 700px;
+    font-family: 'Raleway', sans-serif;
 }
